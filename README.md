@@ -6,4 +6,5 @@ Development by
 - Roland Febrian
   
 Dataset= https://www.kaggle.com/datasets/birdy654/deep-voice-deepfake-voice-recognition?resource=download-directory&select=KAGGLE
+
 Code Deployment in Kaggle= https://www.kaggle.com/code/emilyheart/deepvoice-ai-detection-ver2
